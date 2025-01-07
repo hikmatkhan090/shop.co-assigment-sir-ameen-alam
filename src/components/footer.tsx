@@ -74,11 +74,11 @@ export default function Footer(){
             <p className="text-sm">Shop.co © 2000-2025, THIS SHOP IS OWN BY HIKMAT</p>
             
             <div className="flex items-center  ">
-              <Image src={"/badge1.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
-              <Image src={"/badge2.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
-              <Image src={"/badge3.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
-              <Image src={"/badge4.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
-              <Image src={"/badge5.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
+              <Image src={"/Badge1.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
+              <Image src={"/Badge2.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
+              <Image src={"/Badge3.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
+              <Image src={"/Badge4.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
+              <Image src={"/Badge5.png"} className="w-[60px] h-[40px] " alt="payment" width={100} height={100}></Image>
               
             </div>
            </div>
