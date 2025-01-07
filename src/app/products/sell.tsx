@@ -78,7 +78,7 @@ export default function Top_sell (){
                         return(
                           <div key={data.id}>
                             <Link href={`/products/${data.id}`}>
-                            <div className="w-[190px] h-[190px] md:w-[290px] md:h-[290px] bg-[#F0EEED] rounded-[20px]">
+                            <div className="w-[230px] h-[230px]  bg-[#F0EEED] rounded-[20px]">
                             <Image src={data.img_url} alt={data.title} width={100} height={100} className="w-full h-full rounded-[20px]" ></Image>
                             </div>
                             </Link>
