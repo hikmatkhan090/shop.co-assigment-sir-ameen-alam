@@ -9,7 +9,7 @@ export default function Footer(){
     return(
         <main className="bg-[#f0f0f0] w-full h-full md:h-[450px] relative mt-32 px-5 max-w-screen-2xl mx-auto ">
            {/*  */}
-           <span className="absolute top-[-100]">
+           <span className="absolute top-[-100px]">
            <Offers/>
            </span>
 
