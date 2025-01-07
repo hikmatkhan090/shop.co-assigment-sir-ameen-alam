@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Dress(){
     return(
-        <div className="w-full h-full mt-5 sm:h-[500px] flex justify-start items-center bg-[#F0F0F0] flex-col p-8 px-5 max-w-screen-2xl mx-auto ">
+        <div className="w-full h-full mt-5 sm:h-[500px] flex justify-start items-center bg-[#F0F0F0] flex-col p-5 px-5 max-w-screen-2xl mx-auto ">
             {/* first div */}
             <div className="mt-2">
                 <h1 className="text-3xl font-extrabold pl-6 sm:pl-0">BROWSE BY DRESS STYLE</h1>
